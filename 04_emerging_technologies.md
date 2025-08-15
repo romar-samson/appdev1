@@ -1,4 +1,4 @@
-# Cloud Computing ☁️
+# Cloud Computing
 
 ## Purpose
 The primary purpose of cloud computing is to deliver on-demand computing services—such as servers, storage, databases, networking, software, and analytics—over the internet. This enables users to access resources as needed without having to own, manage, or maintain their own physical hardware and infrastructure. The goal is to provide faster innovation, flexible resources, and economies of scale.
