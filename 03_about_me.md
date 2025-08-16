@@ -2,7 +2,7 @@
 
 **Name:** Romar Samson  
 **Course/Year:** BS Information Technology 3rd Year  
-**Fun Fact:** I can learn new sports immediately  
+**Fun Fact:** I can learn new sports immediately and Currently i'm having a lot of sports.
 
 ---
 
