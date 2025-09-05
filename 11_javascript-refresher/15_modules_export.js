@@ -6,5 +6,3 @@ export const info = {
   name: "Romar",
   age: 20
 };
-
-console.log(greeting(), info);
