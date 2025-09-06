@@ -1,0 +1,1 @@
+Realization: After reset, both the commit history and file contents went back to the chosen commit, discarding later commits.
