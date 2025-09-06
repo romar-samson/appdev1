@@ -1,0 +1,1 @@
+Realization: Git revert keeps the commit history intact but adds a new commit that undoes the changes, unlike git reset which removes commits.
