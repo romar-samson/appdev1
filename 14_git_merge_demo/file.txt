@@ -1,0 +1,1 @@
+Realization: Git merge keeps the history of both branches and adds a merge commit, showing a branching structure. It preserves history without rewriting, but the commit graph looks less linear than with rebase.
