@@ -1,0 +1,1 @@
+Realization: Git rebase rewrote the commit history into a clean, linear sequence, making it appear that the feature work happened after the hotfix. This results in a simpler commit history compared to merge, but it rewrites history.
