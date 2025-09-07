@@ -1,0 +1,1 @@
+Realization: Micro commits make the commit history clearer, with each commit focused on a single logical change. This improves readability, debugging, and collaboration compared to macro commits that mix unrelated changes.
