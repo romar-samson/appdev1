@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-    
+      
     </>
   )
 }
@@ -26,6 +26,14 @@ function AboutPage() {
 const user = {
   name: 'Romar',
   age: 20
+}
+
+let content;
+
+if (isLoggedIn) {
+  content = <AdminPanel />;
+} else {
+  content = <LoginForm />;
 }
 
 export default App
