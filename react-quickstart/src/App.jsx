@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-
+    
     </>
   )
 }
@@ -19,11 +19,13 @@ function AboutPage() {
     <>
       <h1>About</h1>
       <p>Hello there.<br />How do you do?</p>
-      <img className="avatar" />
     </>
   );
 }
 
-
+const user = {
+  name: 'Romar',
+  age: 20
+}
 
 export default App
