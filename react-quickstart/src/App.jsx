@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-    
+
     </>
   )
 }
@@ -55,5 +55,17 @@ const listItems = products.map(product =>
     {product.title}
   </li>
 );
+
+function Button() {
+  function handleClick() {
+    alert('You clicked me!');
+  }
+
+  return (
+    <button onClick={handleClick}>
+      Click me
+    </button>
+  );
+}
 
 export default App
