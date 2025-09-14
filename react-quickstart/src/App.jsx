@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-     
+      
     </>
   )
 }
@@ -24,5 +24,15 @@ function AboutPage() {
 }
 
 <img className="avatar" />
+
+const Name = {
+  name: 'Romar'
+};
+
+const user = {
+  name: 'Hedy Lamarr',
+  imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
+  imageSize: 90,
+};
 
 export default App
