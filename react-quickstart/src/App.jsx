@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-      
+
     </>
   )
 }
@@ -34,5 +34,14 @@ const user = {
   imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
   imageSize: 90,
 };
+
+let content;
+
+if (isLoggedIn) {
+  content = <AdminPanel />;
+} else {
+  content = <LoginForm />;
+  
+}
 
 export default App
