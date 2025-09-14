@@ -23,5 +23,6 @@ function AboutPage() {
   );
 }
 
+<img className="avatar" />
 
 export default App
