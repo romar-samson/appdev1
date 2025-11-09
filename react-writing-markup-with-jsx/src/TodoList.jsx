@@ -1,6 +1,6 @@
 export default function TodoList() {
   return (
-    <div>
+    <>
       <h1>Hedy Lamarr's Todos</h1>
       <img 
         src="https://i.imgur.com/yXOvdOSs.jpg" 
@@ -12,6 +12,6 @@ export default function TodoList() {
         <li>Rehearse a movie scene</li>
         <li>Improve the spectrum technology</li>
       </ul>
-    </div>
+    </>
   );
 }
